@@ -6,7 +6,7 @@
 	.st0{fill:#DA1F26;}
 	.st1{fill:#57B947;}
 </style>
-<circle class="st0" cx="409" cy="400" r="232"/>
-<ellipse class="st1" cx="409" cy="400" rx="43.5" ry="382.5"/>
-<ellipse class="st1" cx="409" cy="400" rx="382.5" ry="43.5"/>
+<circle class="st0" cx="131.8" cy="119.2" r="63.9"/>
+<ellipse class="st1" cx="131.8" cy="119.2" rx="12" ry="105.3"/>
+<ellipse class="st1" cx="131.8" cy="119.2" rx="105.3" ry="12"/>
 </svg>
